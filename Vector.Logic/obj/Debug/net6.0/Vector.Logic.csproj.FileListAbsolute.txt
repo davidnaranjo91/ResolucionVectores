@@ -1,0 +1,12 @@
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\bin\Debug\net6.0\Vector.Logic.deps.json
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\bin\Debug\net6.0\Vector.Logic.dll
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\bin\Debug\net6.0\Vector.Logic.pdb
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\obj\Debug\net6.0\Vector.Logic.csproj.AssemblyReference.cache
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\obj\Debug\net6.0\Vector.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\obj\Debug\net6.0\Vector.Logic.AssemblyInfoInputs.cache
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\obj\Debug\net6.0\Vector.Logic.AssemblyInfo.cs
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\obj\Debug\net6.0\Vector.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\obj\Debug\net6.0\Vector.Logic.dll
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\obj\Debug\net6.0\refint\Vector.Logic.dll
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\obj\Debug\net6.0\Vector.Logic.pdb
+C:\Users\Hook Ronin\Documents\ITI\3ro\POO\Vectores\ResolucionVectores\Vector.Logic\obj\Debug\net6.0\ref\Vector.Logic.dll

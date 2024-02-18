@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorWinForms", "VectorWinForms\VectorWinForms.csproj", "{0862BD9D-72F3-457A-BAB2-28EF931FC751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector.Logic", "Vector.Logic\Vector.Logic.csproj", "{BBAB432A-FA0D-46E2-B055-20E410267287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0862BD9D-72F3-457A-BAB2-28EF931FC751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0862BD9D-72F3-457A-BAB2-28EF931FC751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0862BD9D-72F3-457A-BAB2-28EF931FC751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0862BD9D-72F3-457A-BAB2-28EF931FC751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAB432A-FA0D-46E2-B055-20E410267287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAB432A-FA0D-46E2-B055-20E410267287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAB432A-FA0D-46E2-B055-20E410267287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAB432A-FA0D-46E2-B055-20E410267287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3534F61-A5E4-4C57-B18A-BF95F44381C3}
+	EndGlobalSection
+EndGlobal
